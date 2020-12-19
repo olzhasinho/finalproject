@@ -1,3 +1,4 @@
+(15 topic)
 ASp.NET CORE 3 version was used. Project about The best ART COURSES store project. 
 
 1) CRUD available only for Admin and for me
